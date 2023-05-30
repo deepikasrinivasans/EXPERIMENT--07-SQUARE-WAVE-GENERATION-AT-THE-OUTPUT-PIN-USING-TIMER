@@ -236,29 +236,35 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![WhatsApp Image 2023-05-30 at 7 04 32 PM](https://github.com/deepikasrinivasans/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393935/c526215c-9553-4fa2-9d73-31c9881b2969)
 ## Output screen shots of proteus  :
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
-FOR PULSE AT 500
+### FOR PULSE AT 500
 ![pluse at 500](https://github.com/deepikasrinivasans/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393935/238e18fc-02ba-45b3-98ae-ec6061ee7696)
+```
 TON = 8
 TOFF= 8
 TOTAL TIME = 16
 FREQUENCY = 1/(TOTAL TIME)
 FREQUENCY = 62.5Hz
+```
 
-FOR PULSE AT 800
+### FOR PULSE AT 800
 ![pluse at 800](https://github.com/deepikasrinivasans/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393935/bf27ce41-2aa4-4eee-821c-038c419b06fd)
+```
 TON = 13
 TOFF= 3
 TOTAL TIME = 16
 FREQUENCY = 1/(TOTAL TIME)
 FREQUENCY = 62.5Hz
+```
 
-FOR PULSE AT 900
+### FOR PULSE AT 900
 ![pluse at 900](https://github.com/deepikasrinivasans/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393935/cb3e3137-98dc-46ac-9425-00a70bb041ff)
+```
 TON = 14
 TOFF= 2
 TOTAL TIME = 16
 FREQUENCY = 1/(TOTAL TIME)
 FREQUENCY = 62.5Hz
+```
 
 
 ## Result :
